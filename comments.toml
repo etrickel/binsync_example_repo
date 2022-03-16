@@ -3,3 +3,9 @@ last_change = 1647472381
 addr = 4196125
 comment = "***\nThis is a function comment:\n\nThanks for using BinSync <3\n\n- mahaloz\n***"
 decompiled = false
+
+[40076f]
+last_change = 1647472487
+addr = 4196207
+comment = "totally a password"
+decompiled = true
