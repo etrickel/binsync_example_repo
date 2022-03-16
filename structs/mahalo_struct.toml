@@ -1,6 +1,10 @@
 [metadata]
 name = "mahalo_struct"
-size = 0
-last_change = 1647472400
+size = 4
+last_change = 1647472405
 
-[members]
+[members.0]
+member_name = "field_0"
+offset = 0
+type = ""
+size = 4
