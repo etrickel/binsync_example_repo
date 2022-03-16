@@ -1,7 +1,7 @@
 [metadata]
 addr = 4196125
 size = 184
-last_change = 1647472468
+last_change = 1647472475
 
 [header]
 last_change = 1647472365
@@ -24,4 +24,13 @@ stack_offset_type = 1
 name = "username"
 type = "char[16]"
 size = 16
+addr = 4196125
+
+[stack_vars.-2c]
+last_change = 1647472475
+stack_offset = -44
+stack_offset_type = 1
+name = "buf"
+type = "int"
+size = 4
 addr = 4196125
