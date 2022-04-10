@@ -14,3 +14,11 @@ name = "v5"
 type = "char[16]"
 size = 16
 addr = 4196125
+
+[stack_vars.-18]
+stack_offset = -24
+stack_offset_type = 1
+name = "username"
+type = "char[16]"
+size = 16
+addr = 4196125
