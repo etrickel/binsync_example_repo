@@ -1,9 +1,35 @@
 [metadata]
 addr = 4196125
 size = 184
-last_change = 1661294503
 
 [header]
-last_change = 1661294503
-name = "main_5"
+last_change = 1647472365
+name = "mahaloz_main"
+addr = 4196125
+
+[stack_vars.-28]
+last_change = 1647472464
+stack_offset = -40
+stack_offset_type = 1
+name = "special_stack_var"
+type = "mahalo_struct"
+size = 16
+addr = 4196125
+
+[stack_vars.-18]
+last_change = 1647472468
+stack_offset = -24
+stack_offset_type = 1
+name = "username"
+type = "char[16]"
+size = 16
+addr = 4196125
+
+[stack_vars.-2c]
+last_change = 1647472475
+stack_offset = -44
+stack_offset_type = 1
+name = "buf"
+type = "int"
+size = 4
 addr = 4196125
