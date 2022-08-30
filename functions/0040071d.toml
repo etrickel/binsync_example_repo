@@ -27,10 +27,10 @@ size = 16
 addr = 4196125
 
 [stack_vars.-2c]
-last_change = 1647472475
+last_change = 1661533128
 stack_offset = -44
 stack_offset_type = 1
-name = "buf"
+name = "eriks_24"
 type = "int"
 size = 4
 addr = 4196125
