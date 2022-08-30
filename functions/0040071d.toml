@@ -4,8 +4,8 @@ size = 184
 last_change = 1661866204
 
 [header]
-last_change = 1661866204
-name = "main_4"
+last_change = 1647472365
+name = "mahaloz_main"
 addr = 4196125
 
 [stack_vars.-28]
@@ -27,10 +27,10 @@ size = 16
 addr = 4196125
 
 [stack_vars.-2c]
-last_change = 1661533128
+last_change = 1647472475
 stack_offset = -44
 stack_offset_type = 1
-name = "eriks_24"
+name = "buf"
 type = "int"
 size = 4
 addr = 4196125
