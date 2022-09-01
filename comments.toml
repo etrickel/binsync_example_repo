@@ -4,3 +4,9 @@ addr = 4196133
 func_addr = 4196125
 comment = "yoyoyoyoyo"
 decompiled = false
+
+[600eb0]
+last_change = 1662061602
+addr = 6295216
+comment = "yoyoyo ou in the load"
+decompiled = false
