@@ -1,0 +1,7 @@
+["User States"]
+name = "User States"
+
+["User States".members]
+offline = 0
+online = 1
+hacking = 2
