@@ -1,13 +1,5 @@
-["User States"]
-name = "User States"
-
 [enum_1]
 last_change = 1662473701
 name = "enum_1"
-
-["User States".members]
-offline = 0
-online = 1
-hacking = 2
 
 [enum_1.members]
