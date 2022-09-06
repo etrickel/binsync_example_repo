@@ -2,7 +2,7 @@
 name = "User States"
 
 [enum_1]
-last_change = 1662473513
+last_change = 1662473618
 name = "enum_1"
 
 ["User States".members]
@@ -12,3 +12,4 @@ hacking = 2
 
 [enum_1.members]
 enum_1_0 = 0
+enum_1_1 = 1
